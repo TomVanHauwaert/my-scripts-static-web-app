@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TomVanHauwaert/my-scripts-static-web-app/issues"
   },
-  "homepage": "https://github.com/TomVanHauwaert/my-scripts-static-web-app#readme"
+  "homepage": "https://github.com/TomVanHauwaert/my-scripts-static-web-app#readme",
+  "dependencies": {
+    "iink-js": "^1.4.5"
+  }
 }
